@@ -10,7 +10,7 @@
     tools:context="muslim.myapplication.MainActivity">
 
     <TextView
-        android:layout_width="wrap_content"
+        android:layout_width="67dp"
         android:layout_height="wrap_content"
-        android:text="Hello GIT!" />
+        android:text="Hello World!" />
 </RelativeLayout>
